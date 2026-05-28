@@ -26,6 +26,11 @@ clarify → plan → execute 工作流脊柱。
 Pokemon Champions 离线对战录制器。从录像里通过 CV/OCR 抽出
 每回合的招式、伤害、暴击/未命中/濒死、队伍组成。全本地，无网络。
 
+#### 🔍 [vibe-coding-explainer](https://github.com/TaoXieSZ/vibe-coding-explainer)
+MCP server + VSCode 扩展，让 codegen agent 写代码时**同一次调用**里
+同步产出结构化解释（逐类/函数/结点行 + Mermaid），落地成 sidecar。
+治 vibe coding 后"代码看不懂"的焦虑——读懂 AI 写的代码，而非盲跑。
+
 ---
 
 工作流：Claude Code + [oh-my-claudecode](https://github.com/TaoXieSZ/oh-my-claudecode) + OMR
